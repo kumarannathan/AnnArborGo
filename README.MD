@@ -57,7 +57,7 @@ An immersive **Unity Augmented Reality** experience that gamifies sustainability
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/environmental-ar.git
+   git clone https://github.com/kumarannathan/AnnArborGo
    ```
 2. Open the project in Unity Hub.
 3. Switch build target to **Android** or **iOS**.
@@ -73,3 +73,4 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 ---
 
 If you want, I can also add **centered AR demo GIFs or screenshots** to make the README pop visually — similar to what you wanted for your YouTube embeds. That would really sell the experience.
+
